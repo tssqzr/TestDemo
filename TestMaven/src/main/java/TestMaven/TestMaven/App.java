@@ -19,6 +19,7 @@ public class App
     
     static void test() {
     	System.out.println("test");
+    	System.out.println("ZZZ");
     }
     
     static void print() {
