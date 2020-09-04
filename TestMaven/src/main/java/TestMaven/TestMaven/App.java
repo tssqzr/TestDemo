@@ -12,4 +12,11 @@ public class App
         System.out.println( "2-ts" );
         System.out.println("TTTTTTTTTTTTTTTTTTTTTTTTTTTTT");
     }
+    
+    static void print() {
+    	System.out.println("print");
+    }
+}
+class A{
+	public String name;
 }
