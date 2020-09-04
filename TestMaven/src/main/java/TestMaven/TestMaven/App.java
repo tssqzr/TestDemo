@@ -19,6 +19,8 @@ public class App
     
     static void test() {
     	System.out.println("faiwf adfa");
+    	// fjaif awewjfiejiw
+    	System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbb");
     }
 }
 class A{
