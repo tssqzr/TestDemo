@@ -14,6 +14,10 @@ public class App
 
 
         System.out.println( "2-ts" );
-        System.out.println("TTTTTTTTTTTTTTTTTTTTTTTTTTTTT");
+        System.out.println("TTTTTTTTTTTTTTTTTTTTTTTTTTT11");
+    }
+    
+    static void test() {
+    	System.out.println("test");
     }
 }
