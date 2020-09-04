@@ -2,6 +2,7 @@ package TestMaven.TestMaven;
 
 /**
  * Hello world!
+ * 
  *
  */
 public class App 
@@ -22,6 +23,7 @@ public class App
     	System.out.println("faiwf adfa");
     	// fjaif awewjfiejiw
     	System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbb");
+    	System.out.println("ZZZ");
     }
     
     static void print() {
