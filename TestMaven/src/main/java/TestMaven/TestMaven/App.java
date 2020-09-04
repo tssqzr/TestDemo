@@ -20,4 +20,11 @@ public class App
     static void test() {
     	System.out.println("test");
     }
+    
+    static void print() {
+    	System.out.println("jifewajfe ");
+    }
+}
+class A {
+	public String name;
 }
