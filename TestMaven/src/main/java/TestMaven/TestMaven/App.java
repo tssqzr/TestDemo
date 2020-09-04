@@ -24,6 +24,7 @@ public class App
     
     static void print() {
     	System.out.println("print");
+    	System.out.println("jifewajfe ");
     }
     
 }
