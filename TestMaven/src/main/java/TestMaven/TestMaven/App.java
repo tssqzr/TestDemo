@@ -9,6 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "Hel111lo Worl123!222" );
+        System.out.println( "2-ts" );
+        System.out.println("TTTTTTTTTTTTTTTTTTTTTTTTTTTTT");
     }
 }
