@@ -2,6 +2,7 @@ package TestMaven.TestMaven;
 
 /**
  * Hello world!
+ * 
  *
  */
 public class App 
