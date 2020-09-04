@@ -19,15 +19,13 @@ public class App
     
     static void test() {
     	System.out.println("test");
+    	System.out.println("faiwf adfa");
     }
     
     static void print() {
     	System.out.println("print");
     }
     
-    static void test() {
-    	System.out.println("faiwf adfa");
-    }
 }
 class A{
 	public String name;
