@@ -20,13 +20,15 @@ public class App
     static void test() {
     	System.out.println("test");
     	System.out.println("faiwf adfa");
+    	// fjaif awewjfiejiw
+    	System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbb");
     }
     
     static void print() {
     	System.out.println("print");
     	System.out.println("jifewajfe ");
     }
-    
+
 }
 class A{
 	public String name;
