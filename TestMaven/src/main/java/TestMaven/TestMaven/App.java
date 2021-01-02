@@ -25,7 +25,7 @@ public class App
     }
     
     static void print() {
-    	System.out.println("jifewajfe ");
+    	System.out.println("jif-0ewajfe ");
     }
 }
 class A {
