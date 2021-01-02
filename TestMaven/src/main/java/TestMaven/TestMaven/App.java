@@ -21,6 +21,7 @@ public class App
     static void test() {
     	System.out.println("test");
     	System.out.println("ZZZ");
+        System.out.println("test2");
     }
     
     static void print() {
